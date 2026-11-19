@@ -1,0 +1,31 @@
+# Week 1 Review
+
+## What I finished
+- [ ] Setup (Python, Git, VS Code, GitHub)
+- [ ] Python basics, collections, files and modules
+- [ ] OOP: classes, objects, methods
+- [ ] Git: branch, merge, conflict
+
+## Hardest topic and why
+-
+
+## Exercises I got wrong (and fixed?)
+-
+
+## 3 things still unclear
+1.
+2.
+3.
+
+## Self-rating (1 to 5)
+| Topic | Rating |
+|---|---|
+| Variables and loops | |
+| Functions | |
+| Lists and dicts | |
+| Files and CSV | |
+| Classes | |
+| Git | |
+
+## Hours studied vs plan
+-
